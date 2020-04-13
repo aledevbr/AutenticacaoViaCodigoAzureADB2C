@@ -5,7 +5,12 @@ VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocalWebApi", "LocalWebApi\LocalWebApi.csproj", "{396E6A74-D78F-4DDA-B7A9-71C758E535DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicativoConsole", "AplicativoConsole\AplicativoConsole.csproj", "{A7C804A8-5987-4E92-B02D-D5E0B15C7041}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AplicativoConsole", "AplicativoConsole\AplicativoConsole.csproj", "{A7C804A8-5987-4E92-B02D-D5E0B15C7041}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{72A640F1-FECF-4544-856F-C18F46C182CD}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
